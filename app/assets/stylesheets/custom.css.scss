@@ -3,3 +3,19 @@
     height: 450px;
     padding: 8px !important;
 }
+
+.login-header {
+    margin-top: 12px;
+    text-align: center;
+
+    .login-icon {
+        margin-top: 20px;
+        border: 2px solid gray;
+        border-radius: 50%;
+        padding: 12px;
+        display: inline;
+    }
+    h2{
+        margin-top:12px;
+    }
+}
