@@ -1,5 +1,5 @@
 class ApplicationController < ActionController::Base
-    
+    # Just commenting
     helper_method :current_user, :logged_in?
      
     def current_user
